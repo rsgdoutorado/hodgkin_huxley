@@ -1,4 +1,4 @@
-# hodgkin_huxley
+# Hodgkin Huxley
 Algoritmo de Hodgkin Huxley para aplicação de condução e excitação da membrana
 
 As equações foram retiradas dos seguintes documentos:
