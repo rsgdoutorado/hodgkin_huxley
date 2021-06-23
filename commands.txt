@@ -1,0 +1,16 @@
+Ctrl + P: Python Terminal
+pip3 install virtualenv
+
+//Criar o ambiente virtual
+    virtualenv libsenv --system-site-packages 
+    Set-ExecutionPolicy Unrestricted -Force
+
+//Ativar/Desativar o ambiente virtual
+    \<name>\Scripts\activate
+    deactivate
+
+//Bibliotecas
+pip3 freeze
+pip3 install numpy
+pip3 install matplotlib
+
